@@ -1,0 +1,156 @@
+employee_id,course_name,completed_date
+EX1009,Hazmat Awareness,2026-05-27
+EX1003,Forklift Safety,2023-05-07
+EX1026,Fire Extinguisher Safety,2025-12-17
+EX1027,Hazmat Awareness,2024-05-15
+EX1029,Hazmat Awareness,2025-04-17
+EX1007,Hazmat Awareness,2024-02-06
+EX1031,Hazmat Awareness,2024-03-25
+EX1028,Hazmat Awareness,2023-10-08
+EX1017,Defensive Driving,2025-09-24
+EX1030,Hours of Service,2026-08-20
+EX1026,Defensive Driving,2025-10-22
+EX1014,Forklift Safety,2024-12-05
+EX1021,Hours of Service,2025-11-23
+EX1024,Defensive Driving,2026-04-23
+EX1021,Defensive Driving,2025-10-08
+EX1008,Fire Extinguisher Safety,2024-09-17
+EX1027,Hours of Service,2025-12-16
+EX1033,Defensive Driving,2026-09-28
+EX1033,Fire Extinguisher Safety,2026-09-28
+EX9999,Defensive Driving,2026-05-12
+EX1006,Fire Extinguisher Safety,2025-04-25
+EX1009,Forklift Safety,2024-05-17
+EX1031,Forklift Safety,2024-08-17
+EX1019,Fire Extinguisher Safety,2024-04-28
+EX1003,Hazmat Awareness,2026-08-26
+EX1011,Hours of Service,2025-06-10
+EX1007,Fire Extinguisher Safety,2026-03-11
+EX1019,Hours of Service,2026-03-07
+EX1022,Hazmat Awareness,2023-08-18
+EX1016,Defensive Driving,2026-04-07
+EX1031,Fire Extinguisher Safety,2025-08-25
+EX1012,Hazmat Awareness,2026-04-10
+EX1011,Fire Extinguisher Safety,2025-11-28
+EX1029,Fire Extinguisher Safety,2026-04-09
+EX1006,Hazmat Awareness,2025-04-18
+EX1012,Hours of Service,2025-12-21
+EX1009,Forklift Safety,2021-05-17
+EX1005,fire extinguisher safety ,2026-04-24
+EX1014,Fire Extinguisher Safety,2026-04-27
+EX1026,Hazmat Awareness,2021-06-09
+EX1034,Forklift Safety,2026-09-28
+EX1017,Hazmat Awareness,2025-08-01
+EX1007,Hazmat Awareness,2021-02-06
+EX1028,Fire Extinguisher Safety,2024-10-18
+EX1026,Hazmat Awareness,2024-06-09
+EX1007,Hours of Service,2025-04-23
+EX1002,Fire Extinguisher Safety,2025-05-02
+EX1028,Defensive Driving,2025-10-09
+EX1025,Hazmat Awareness,2025-07-28
+EX1013,Hazmat Awareness,2020-12-27
+EX1007,Defensive Driving,2025-10-14
+EX1029,Forklift Safety,2025-11-19
+EX1011,Hazmat Awareness,2025-01-03
+EX1016,Fire Extinguisher Safety,2024-10-04
+EX1001,Hazmat Awareness,2024-03-04
+EX1002,Defensive Driving,2025-10-12
+EX1019,Defensive Driving,2026-08-21
+EX1008,Fire Extinguisher Safety,2025-09-17
+EX1023,Fire Extinguisher Safety,2025-02-16
+EX1034,Hazmat Awareness,2026-09-28
+EX1027,Defensive Driving,2025-08-14
+EX1032,Fire Extinguisher Safety,2026-04-04
+EX1030,Defensive Driving,2025-11-28
+EX1019,Hazmat Awareness,2023-05-08
+EX1029,Forklift Safety,2022-11-19
+EX1009,Fire Extinguisher Safety,
+EX1005,Hazmat Awareness,2021-11-22
+EX1023,Forklift Safety,2023-03-21
+EX1033,Hours of Service,2026-09-28
+EX1024,Fire Extinguisher Safety,2025-03-23
+EX1027,Hazmat Awareness,2021-05-15
+EX1028,Defensive Driving,2024-10-09
+EX1011,Defensive Driving,2026-06-03
+EX1021,Hazmat Awareness,2025-12-12
+EX1002,Defensive Driving,2024-10-12
+EX1020,Fire Extinguisher Safety,2025-09-22
+EX1023,Fire Extinguisher Safety,2026-02-16
+EX1010,Fire Extinguisher Safety,2024-05-14
+EX1002,Hours of Service,2026-02-07
+EX1017,Hours of Service,2026-11-02
+EX1021,Defensive Driving,2024-10-08
+EX1012,Hazmat Awareness,2023-04-10
+EX1018,Fire Extinguisher Safety,2026-02-05
+EX1015,Fire Extinguisher Safety,2024-06-28
+EX1008,Forklift Safety,2024-04-15
+EX1015,Hazmat Awareness,2025-05-24
+EX1015,Defensive Driving,2025-08-16
+EX1008,Hazmat Awareness,2023-05-14
+EX1030,Hours of Service,2025-08-20
+EX1006,Forklift Safety,2024-02-03
+EX1021,Fire Extinguisher Safety,2025-04-22
+EX1001,Fire Extinguisher Safety,2026-06-08
+EX1007,Fire Extinguisher Safety,2025-03-11
+EX1018,Hazmat Awareness,2025-07-18
+EX1025,Defensive Driving,2025-12-14
+EX1004,Defensive Driving,2026-02-28
+EX1010,Hazmat Awareness,2024-11-25
+EX1016,Hours of Service,2026-06-21
+EX1011,Defensive Driving,2024-02-10
+EX1006,Forklift Safety,2021-02-03
+EX1005,Hours of Service,2025-12-07
+EX1002,Hazmat Awareness,2025-05-08
+EX1004,Hours of Service,2024-04-13
+EX1025,Fire Extinguisher Safety,2026-07-24
+EX1019,Fire Extinguisher Safety,2025-04-28
+EX1016,Defensive Driving,2025-04-07
+EX1025,Hours of Service,2026-02-17
+EX1013,Hours of Service,2025-05-12
+EX1004,Hours of Service,2025-04-13
+EX1022,Defensive Driving,2026-06-24
+EX1013,Defensive Driving,11/04/2025
+EX1015,Fire Extinguisher Safety,2025-06-28
+EX1031,Fire Extinguisher Safety,2026-08-25
+EX1015,Hours of Service,2026-07-28
+EX1027,Fire Extinguisher Safety,2026-04-18
+EX1007,Hours of Service,2026-04-23
+EX1024,Hazmat Awareness,2024-08-10
+EX1028,Fire Extinguisher Safety,2025-10-18
+EX1009,Fire Extinguisher Safety,2026-01-28
+EX1010,Forklift Safety,2023-10-05
+EX1003,Fire Extinguisher Safety,2026-07-20
+EX1017,Hours of Service,2025-05-02
+EX1010,Hazmat Awareness,2021-11-25
+EX1016,Hazmat Awareness,2026-06-12
+EX1005,Hazmat Awareness,2024-11-22
+EX1016,Fire Extinguisher Safety,2025-10-04
+EX1012,Defensive Driving,2026-05-13
+EX1010,Fire Extinguisher Safety,2025-05-14
+EX1025,Fire Extinguisher Safety,2025-07-24
+EX1019,Hazmat Awareness,2020-05-08
+EX1017,Fire Extinguisher Safety,2025-06-21
+EX1024,Hours of Service,2025-04-13
+EX1014,Hazmat Awareness,2025-04-04
+EX1004,Fire Extinguisher Safety,2026-08-05
+EX1030,Fire Extinguisher Safety,2025-05-12
+EX1030,Hazmat Awareness,2026-05-02
+EX1032,Hazmat Awareness,2024-02-08
+EX1026,Hours of Service,2025-12-17
+EX1001,Fire Extinguisher Safety,2025-06-08
+EX1029,Hazmat Awareness,2022-04-17
+EX1003,Forklift Safety,2020-05-07
+EX1018,Hours of Service,2026-05-21
+EX1028,Hours of Service,2026-07-04
+EX1002,Fire Extinguisher Safety,2024-05-02
+EX1013,Hazmat Awareness,2023-12-27
+EX1024,Hours of Service,2026-04-13
+EX1011,Hours of Service,2026-06-10
+EX1032,Defensive Driving,2025-12-26
+EX1012,Fire Extinguisher Safety,2026-01-23
+EX1023,Hazmat Awareness,2023-08-08
+EX1013,Hours of Service,2024-05-12
+EX1017,Fire Extinguisher Safety,2024-06-21
+EX1018,Defensive Driving,2026-02-09
+EX1003,Hazmat Awareness,2026-08-26
+EX1013,Fire Extinguisher Safety,2026-01-20
